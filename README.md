@@ -5,8 +5,8 @@ _Proof of Concept for file encryption/decryption/hash._
 
 
 
-- generate sha256sum of local file.
-- encrypt local file.
+- Generate sha256sum of local file.
+- Encrypt local file.
   - Symmetric authenticated encryption.
   - AES GCM.
   - Cryptographically secure pseudo random 12 byte nonce.
