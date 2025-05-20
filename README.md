@@ -12,7 +12,16 @@
 	- Cryptographically secure pseudo random 16 byte secret key.
 
 ![selecting file](/screenshots/select_file.png "selecting file")
+
+<br/>
+
 ![shasum](/screenshots/shasum.png "shasum")
+
+<br/>
+
 ![encrypting](/screenshots/encrypting.png "encrypting")
+
+<br/>
+
 ![decrypting](/screenshots/decrypting.png "decrypting")
 ###### _Maybe will add asymmetric encryption option in future. Maybe illustrated my point already and it's not needed._
